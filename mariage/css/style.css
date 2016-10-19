@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+
+#img-accueil{
+	
+	
+	
+	
+}
+
+.titre-nous{
+	font-family: 'Dancing Script', cursive;
+	font-size: 100px;
+	font-weight:bolder;
+	position: absolute;
+	left: 100px;
+	top: 200px;
+	
+}
+
+#titre-delphine{
+	color:#FAA1AD;
+}
+
+#titre-et{
+	color:#8AD6C7;
+	font-size: 150px;
+}
+
+#titre-julien{
+	color:#FFDEA5;
+
+	}
